@@ -289,6 +289,9 @@ body.shift-down footer {
   border: 2px solid black;
   margin-top: 5pxpx;
 }
+.product button:hover{
+  background-color: whitesmoke;
+}
 #cart-items{
   margin-left: 20px;
   margin-top: 10px;
@@ -400,3 +403,4 @@ position: relative;
     margin-bottom: 25px;
   }
 } 
+
